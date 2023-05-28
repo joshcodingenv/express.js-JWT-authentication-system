@@ -7,6 +7,9 @@ const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 
+// import routes
+const appRoutes = require("./routes/appRoutes");
+
 // dotenv configuration
 dotenv.config();
 
