@@ -1,0 +1,30 @@
+{
+  "name": "express.js-jwt-authentication-system",
+  "version": "1.0.0",
+  "description": "A simple express.js REST api implementing a JWT authentication system.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshcodingenv/express.js-rest-api-jwt-authentication-system.git"
+  },
+  "author": "joshcodingenv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshcodingenv/express.js-rest-api-jwt-authentication-system/issues"
+  },
+  "homepage": "https://github.com/joshcodingenv/express.js-rest-api-jwt-authentication-system#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22",
+    "slugify": "^1.6.6"
+  }
+}
