@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshcodingenv/express.js-rest-api-jwt-authentication-system.git"
+    "url": "git+https://github.com/joshcodingenv/express.js-JWT-authentication-system/issues.git"
   },
   "author": "joshcodingenv",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joshcodingenv/express.js-rest-api-jwt-authentication-system/issues"
+    "url": "https://github.com/joshcodingenv/express.js-JWT-authentication-system/issues"
   },
-  "homepage": "https://github.com/joshcodingenv/express.js-rest-api-jwt-authentication-system#readme",
+  "homepage": "https://github.com/joshcodingenv/express.js-JWT-authentication-system#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
